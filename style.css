@@ -49,6 +49,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .top-pattern {
@@ -61,8 +62,8 @@ main {
   background-color: white;
   display: flex;
   flex-direction: column;
-  width: 30rem;
   border-radius: 1rem;
+  width: 30rem;
   overflow: hidden;
 }
 
